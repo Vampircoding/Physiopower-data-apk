@@ -1,0 +1,6 @@
+{
+  "name": "Sagar Split Pro",
+  "description": "Sagar Split Pro is an advanced, premium expense-splitting application created by Sagar, featuring monthly room splits, trip expense trackers with multi-currency, smart AI budget predictions, receipt OCR scanners, and settlement reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
